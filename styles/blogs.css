@@ -1,8 +1,22 @@
 fieldset{
     
-    
+    display: flex;
     
 }
 form .basic-info label{
         display: block;
+}
+nav ul{
+        display: flex;
+        gap: 30px;
+        
+}
+nav li{
+        list-style: none;
+}
+nav a{
+        text-decoration: none;
+}
+nav li:hover{
+        background-color: gray;
 }

@@ -1,0 +1,23 @@
+.Flex{
+        display: flex;
+        
+}
+.Flex h3{
+    margin: 0px 20px 0px 0px;
+    
+}
+.picture img{
+  width: 28%;
+  height: auto;
+  margin: 10px 0px 0px 0px;
+  display: list-item;
+}
+
+.shaping{
+    background-color: bisque;
+    display:block;
+}
+
+fieldset .input-section label{
+    display: block;
+}
